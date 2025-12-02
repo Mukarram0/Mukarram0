@@ -1,6 +1,9 @@
 ## Hi there 👋
 # 🌟 Mukarram — Developer | Learner | Builder
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=2F80ED&width=600&lines=Hi+there!+I'm+Mukarram+Hussain;Developer+%7C+Learner+%7C+Builder;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+I'm+Mukarram+Hussain;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
 
 
 Welcome to my GitHub space!  
