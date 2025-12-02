@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Mukarram+Hussain;Full+Stack+Developer;Strong+in+DSA+%26+OOP;Experienced+with+React+%26+Node.js;Always+Learning+%26+Building" alt="Typing SVG" />
-</p>
-
 ## Hi there 👋  
 # 🌟 Mukarram — Developer | Learner | Builder
 
 Welcome to my GitHub space!  
 I enjoy turning ideas into clean, functional code.
-
 ---
 
 ### 🧰 Tech Stack
@@ -34,7 +29,6 @@ I enjoy turning ideas into clean, functional code.
 **Core Concepts:**  
 - OOP  
 - Data Structures & Algorithms (DSA)
-
 ---
 
 ### 🌱 Currently Growing In
@@ -43,7 +37,6 @@ I enjoy turning ideas into clean, functional code.
 - Open-source contributions  
 
 > “Code. Learn. Improve. Repeat.”
-
 ---
 
 ### 📫 How to reach me  
