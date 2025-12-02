@@ -1,11 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Mukarram+Hussain;Full+Stack+Developer;Strong+in+DSA+%26+OOP;Experienced+with+React+%26+Node.js;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
+
+## Hi there 👋  
 # 🌟 Mukarram — Developer | Learner | Builder
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=36BCF7&center=false&vCenter=false&width=600&lines=Full+Stack+Developer;C%2B%2B+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things)](https://git.io/typing-svg)
-
-
 
 Welcome to my GitHub space!  
 I enjoy turning ideas into clean, functional code.
+
+---
+
 ### 🧰 Tech Stack
 
 **Languages:**  
@@ -31,12 +35,17 @@ I enjoy turning ideas into clean, functional code.
 - OOP  
 - Data Structures & Algorithms (DSA)
 
+---
+
 ### 🌱 Currently Growing In
 - Full-stack engineering  
 - Cloud services  
 - Open-source contributions  
 
 > “Code. Learn. Improve. Repeat.”
-📫 How to reach me:
+
+---
+
+### 📫 How to reach me  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mukarramhussain30@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukarram-hussain-527b08325)
