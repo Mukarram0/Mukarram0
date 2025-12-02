@@ -15,6 +15,11 @@ I enjoy turning ideas into clean, functional code.
 - Open-source contributions  
 
 > “Code. Learn. Improve. Repeat.”
+📫 How to reach me:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mukarramhussain30@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
 
 <!--
