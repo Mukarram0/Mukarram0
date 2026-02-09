@@ -5,7 +5,7 @@ Welcome to my GitHub space!
 I enjoy turning ideas into clean, functional code.     
 ---      
                  
-### 🧰 Tech Stack            
+### 🧰 Tech Stack              
     
 **Languages:**     
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
