@@ -21,6 +21,7 @@ I enjoy turning ideas into clean, functional code.
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)   
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -29,10 +30,11 @@ I enjoy turning ideas into clean, functional code.
 **Core Concepts:**  
 - OOP  
 - Data Structures & Algorithms (DSA)
+- Rest Api
 ---
 
 ### 🌱 Currently Growing In
-- Full-stack engineering  
+- Mern-stack engineering  
 - Cloud services  
 - Open-source contributions  
 
